@@ -1,13 +1,6 @@
-// Your web app's Firebase configuration
+// Add your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: "AIzaSyA14YFDgMaRJRUDGSbCPMl8RjWv8uY25Hw",
-  authDomain: "the-white-board.firebaseapp.com",
-  databaseURL: "https://the-white-board.firebaseio.com",
-  projectId: "the-white-board",
-  storageBucket: "the-white-board.appspot.com",
-  messagingSenderId: "631108540394",
-  appId: "1:631108540394:web:ae43ec42e8ad5ef5578493",
-  measurementId: "G-QDR50XHW7T"
+
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
