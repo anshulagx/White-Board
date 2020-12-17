@@ -1,4 +1,4 @@
 # White-Board
-An online whiteboard
+A live text field with realtime data updation across device.
 
-Live DEMO:https://portfolio-anshul.herokuapp.com/chat
+Live DEMO:https://www.anshulagarwala.com/chat
